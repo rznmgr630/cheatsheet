@@ -1,6 +1,6 @@
 # Problems
 
-## 1. ENOSPC: System limit for number of file watchers reached
+## 1. [UBUNTU] ENOSPC: System limit for number of file watchers reached
 ### Temporary Solution
 1. Open this file
    `sudo nano /etc/sysctl.conf`
